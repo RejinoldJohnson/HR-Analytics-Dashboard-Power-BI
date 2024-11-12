@@ -7,12 +7,3 @@ Data Transformation & Cleaning: Utilized Power BI's data transformation tools to
 Advanced DAX Measures: Created custom DAX measures to calculate essential metrics, including Presence %, WFH %, and SL %, providing a clear view of attendance patterns by date and day of the week.
 
 Interactive Visuals & Insights: Built dynamic visuals like line charts and matrices that enable HR teams to monitor attendance trends over time, enhancing data-driven decision-making.
-
-![image](https://github.com/user-attachments/assets/1aa48d17-e5fc-4624-914e-7b2e2e97d217)
-
-![image](https://github.com/user-attachments/assets/610ab739-00a8-4b23-9fe3-3698ee42b857)
-
-![image](https://github.com/user-attachments/assets/2f78ed29-cec0-43c5-bebc-030cd478b6f2)
-
-![image](https://github.com/user-attachments/assets/98dccf30-165e-42dc-a369-32fc7dd97af8)
-
