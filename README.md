@@ -8,10 +8,11 @@ Advanced DAX Measures: Created custom DAX measures to calculate essential metric
 
 Interactive Visuals & Insights: Built dynamic visuals like line charts and matrices that enable HR teams to monitor attendance trends over time, enhancing data-driven decision-making.
 
-![image](https://github.com/user-attachments/assets/f0cd91aa-c30c-46b4-9cc0-5068b1498c2e)
+![image](https://github.com/user-attachments/assets/1aa48d17-e5fc-4624-914e-7b2e2e97d217)
 
-![image](https://github.com/user-attachments/assets/60557c2b-ea35-43ea-864d-add4bd73fea8)
+![image](https://github.com/user-attachments/assets/610ab739-00a8-4b23-9fe3-3698ee42b857)
 
-![image](https://github.com/user-attachments/assets/64c2f878-d2cb-4a45-bdca-0dffed437894)
+![image](https://github.com/user-attachments/assets/2f78ed29-cec0-43c5-bebc-030cd478b6f2)
 
-![image](https://github.com/user-attachments/assets/852af90b-7271-43b4-ae84-7a7ae8570e91)
+![image](https://github.com/user-attachments/assets/98dccf30-165e-42dc-a369-32fc7dd97af8)
+
